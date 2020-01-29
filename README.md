@@ -1,24 +1,62 @@
-# README
+# Micro Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The objective of this project is to be able to appropriately model the necessary 
+data of a reddit like application.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby on Rails 6.0.2.1,
+- Ruby 2.6.5,
+- Ruby Mine,
+- Visual Studio Code
+- SQLite 3
 
-* System dependencies
+## Getting Started
 
-* Configuration
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
-* Database creation
 
-* Database initialization
+To get a local copy up and running follow these simple example steps.
 
-* How to run the test suite
+### Prerequisites
 
-* Services (job queues, cache servers, search engines, etc.)
+### Setup
 
-* Deployment instructions
+### Install
 
-* ...
+### Usage
+
+### Run tests
+
+### Deployment
+
+
+
+## Authors
+
+👤 **David Auza**
+
+- GitHub: [davidauza-engineer](https://github.com/davidauza-engineer)
+- Twitter: [@davidauzaeng](https://twitter.com/davidauzaeng)
+- LinkedIn: [David Auza](https://linkedin.com/in/davidauza)
+
+👤 **Luis Novoa**
+
+- GitHub: [luis-novoa](https://github.com/luis-novoa)
+- Twitter: [@LuisMatteNovoa](https://twitter.com/LuisMatteNovoa)
+- Linkedin: [Luis Novoa](https://www.linkedin.com/in/luismattenovoa/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/luis-novoa/micro-reddit-dl/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](https://github.com/luis-novoa/micro-reddit-dl/blob/reddit-model/LICENSE) licensed.
